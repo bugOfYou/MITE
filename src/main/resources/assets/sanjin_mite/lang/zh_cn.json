@@ -1,0 +1,11 @@
+{
+  "item.sanjin_mite.hard_ingot": "硬石锭",
+  "item.sanjin_mite.mercury_ingot": "汞锭",
+  "item.sanjin_mite.tin_ingot": "锡锭",
+  "item.sanjin_mite.silver_ingot": "银锭",
+  "item.sanjin_mite.mithril_ingot": "秘银锭",
+  "item.sanjin_mite.ancient_metal_ingot": "远古金属锭",
+  "item.sanjin_mite.adamantine_ingot": "艾德曼锭",
+
+  "itemGroup.sanjin_mite": "MITE 打破一切"
+}

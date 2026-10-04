@@ -1,0 +1,11 @@
+{
+  "item.sanjin_mite.hard_ingot": "Hard Ingot",
+  "item.sanjin_mite.mercury_ingot": "Mercury Ingot",
+  "item.sanjin_mite.tin_ingot": "Tin Ingot",
+  "item.sanjin_mite.silver_ingot": "Silver Ingot",
+  "item.sanjin_mite.mithril_ingot": "Mithril Ingot",
+  "item.sanjin_mite.ancient_metal_ingot": "Ancient Metal Ingot",
+  "item.sanjin_mite.adamantine_ingot": "Adamantine Ingot",
+
+  "itemGroup.sanjin_mite": "MITE: Break Everything"
+}
