@@ -1,11 +1,19 @@
 {
   "item.sanjin_mite.hard_ingot": "硬石锭",
+  "item.sanjin_mite.hard_nugget": "硬石粒",
+  "block.sanjin_mite.hard_ore": "硬石矿",
   "item.sanjin_mite.mercury_ingot": "汞锭",
+  "item.sanjin_mite.mercury_nugget": "汞粒",
   "item.sanjin_mite.tin_ingot": "锡锭",
+  "item.sanjin_mite.tin_nugget": "锡粒",
   "item.sanjin_mite.silver_ingot": "银锭",
+  "item.sanjin_mite.silver_nugget": "银粒",
   "item.sanjin_mite.mithril_ingot": "秘银锭",
+  "item.sanjin_mite.mithril_nugget": "秘银粒",
   "item.sanjin_mite.ancient_metal_ingot": "远古金属锭",
+  "item.sanjin_mite.ancient_metal_nugget": "远古金属粒",
   "item.sanjin_mite.adamantine_ingot": "艾德曼锭",
+  "item.sanjin_mite.adamantine_nugget": "艾德曼粒",
 
   "itemGroup.sanjin_mite": "MITE 打破一切"
 }

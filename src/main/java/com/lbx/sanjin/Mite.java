@@ -1,5 +1,6 @@
 package com.lbx.sanjin;
 
+import com.lbx.sanjin.modeblocks.ModeBlocks;
 import com.lbx.sanjin.modeitems.ModeItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
@@ -36,12 +37,20 @@ public final class Mite {
             .icon(() -> ModeItems.hard_ingot.get().getDefaultInstance())
             .displayItems((parameters, output) -> {
                 output.accept(ModeItems.hard_ingot.get());
+                output.accept(ModeItems.hard_nugget.get());
+                output.accept(ModeItems.hard_ore.get());
                 output.accept(ModeItems.mercury_ingot.get());
+                output.accept(ModeItems.mercury_nugget.get());
                 output.accept(ModeItems.tin_ingot.get());
+                output.accept(ModeItems.tin_nugget.get());
                 output.accept(ModeItems.silver_ingot.get());
+                output.accept(ModeItems.silver_nugget.get());
                 output.accept(ModeItems.mithril_ingot.get());
+                output.accept(ModeItems.mithril_nugget.get());
                 output.accept(ModeItems.ancient_metal_ingot.get());
+                output.accept(ModeItems.ancient_metal_nugget.get());
                 output.accept(ModeItems.adamantine_ingot.get());
+                output.accept(ModeItems.adamantine_nugget.get());
             }).build());
 
     public Mite(FMLJavaModLoadingContext context) {
@@ -51,6 +60,7 @@ public final class Mite {
 //        FMLCommonSetupEvent.getBus(modBusGroup).addListener(this::commonSetup);
 
         ModeItems.register(modBusGroup);
+        ModeBlocks.register(modBusGroup);
         CREATIVE_MODE_TABS.register(modBusGroup);
 
         // Register our mod's ForgeConfigSpec so that Forge can create and load the config file for us

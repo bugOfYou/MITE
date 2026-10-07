@@ -1,11 +1,19 @@
 {
   "item.sanjin_mite.hard_ingot": "Hard Ingot",
+  "item.sanjin_mite.hard_nugget": "Hard Nugget",
+  "block.sanjin_mite.hard_ore": "Hard Ore",
   "item.sanjin_mite.mercury_ingot": "Mercury Ingot",
+  "item.sanjin_mite.mercury_nugget": "Mercury Nugget",
   "item.sanjin_mite.tin_ingot": "Tin Ingot",
+  "item.sanjin_mite.tin_nugget": "Tin Nugget",
   "item.sanjin_mite.silver_ingot": "Silver Ingot",
+  "item.sanjin_mite.silver_nugget": "Silver Nugget",
   "item.sanjin_mite.mithril_ingot": "Mithril Ingot",
+  "item.sanjin_mite.mithril_nugget": "Mithril Nugget",
   "item.sanjin_mite.ancient_metal_ingot": "Ancient Metal Ingot",
+  "item.sanjin_mite.ancient_metal_nugget": "Ancient Metal Nugget",
   "item.sanjin_mite.adamantine_ingot": "Adamantine Ingot",
+  "item.sanjin_mite.adamantine_nugget": "Adamantine Nugget",
 
   "itemGroup.sanjin_mite": "MITE: Break Everything"
 }
